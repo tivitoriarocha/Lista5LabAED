@@ -1,6 +1,8 @@
 //1º Implemente os algoritmos de ordenação vistos na disciplina(bubble, insertion, merge, quick) e compare seus tempos de execução nos seguintes cenários:
 // c) Array com 1000000 elementos
 
+// Mesmo código da alternativa 'a' e 'b', mudei apenas a quantidade de elementos.
+
 #include <stdio.h>
 #include <time.h>
 
