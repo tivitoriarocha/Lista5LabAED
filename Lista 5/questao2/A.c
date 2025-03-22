@@ -2,6 +2,10 @@
 // a) Array com 1000 elementos
 
 // Escolhi para o método de ordenação o Bubble Sort.
+// Vale salientar que o código indica o número a ser buscado.  int x = 500;
+
+// A busca sequencial nesse caso é extremamente rápida, pois o array é pequeno.
+// Mas, a busca binária também será muito rápida, mesmo a diferença em relação à busca sequencial sendo mínima.
 
 #include <stdio.h>
 #include <time.h>

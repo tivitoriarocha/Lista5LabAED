@@ -3,6 +3,9 @@
 
 // Mesmo código da alternativa 'a' e 'b', mudei apenas a quantidade de elementos.
 
+// Bubble Sort e Insertion Sort são inviáveis devido ao seu tempo de execução extremamente alto.
+// merge Sort e quick Sort são as melhores opções, com complexidade O(n log n).
+
 #include <stdio.h>
 #include <time.h>
 

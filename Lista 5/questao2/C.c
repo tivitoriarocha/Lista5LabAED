@@ -2,6 +2,9 @@
 // c) Array com 1000000
 
 // Mesmo código da alternativa 'a' e 'b', apenas alterando a quantidade de elementos.
+// Vale salientar que o código indica o número a ser buscado.  int x = 500;
+
+// A busca binária é claramente superior em relação a busca sequencial em termos de eficiência para arrays grandes e ordenados.
 
 #include <stdio.h>
 #include <time.h>

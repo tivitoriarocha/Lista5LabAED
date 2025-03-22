@@ -3,6 +3,9 @@
 
 // Mesmo código da alternativa 'a', mudei apenas a quantidade de elementos.
 
+// Para uma array de 100000 o quick Sort e merge Sort são as melhores opções, enquanto Bubble Sort e Insertion Sort são 
+// ineficientes funcionam melhor para tamanhos pequenos de dados.
+
 #include <stdio.h>
 #include <time.h>
 

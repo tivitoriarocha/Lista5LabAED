@@ -2,6 +2,9 @@
 // b) Array com 100000
 
 // Mesmo código da alternativa 'a', apenas alterando a quantidade de elementos.
+// Vale salientar que o código indica o número a ser buscado.  int x = 500;
+
+// A busca binária é melhor opção para arrays ordenados, independentemente do tamanho do array.
 
 #include <stdio.h>
 #include <time.h>
