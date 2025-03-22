@@ -1,6 +1,9 @@
 //1º Implemente os algoritmos de ordenação vistos na disciplina(bubble, insertion, merge, quick) e compare seus tempos de execução nos seguintes cenários:
 // a) Array com 1000 elementos
 
+// Para um array desse tamanho o bubble Sort e o insertion Sort são aceitáveis, mas não ideais.
+// o merge Sort e o quick Sort são muito mais eficientes.
+
 #include <stdio.h>
 #include <time.h>
 

@@ -1,9 +1,12 @@
 // 1º Implemente os algoritmos de ordenação vistos na disciplina(bubble, insertion, merge, quick) e compare seus tempos de execução nos seguintes cenários:
 // d) Array de Caracteres
 
-// Quase o mesmo código da alternativa 'a', 'b' e 'c'. Dessa vez, foi necessário fazer alterações nas variáveis para que comportem a movimentação de char!
+// Quase o mesmo código das alternativas 'a', 'b' e 'c'. Dessa vez, foi necessário fazer alterações nas variáveis para que comportem a movimentação de char!
 // Também foi preciso usar alocação de memória para a memória temporária do merge sort.
 // Considerei o tamanho da arrey de caracteres = 100000.
+
+// Para uma array de 100000 o quick Sort e merge Sort são as melhores opções, enquanto Bubble Sort e Insertion Sort são 
+// ineficientes funcionam melhor para tamanhos pequenos de dados.
 
 #include <stdio.h>
 #include <time.h>
